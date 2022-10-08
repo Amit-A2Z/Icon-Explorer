@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/demo/iconexplorer/localService/mockserver"],function(e){"use strict";e.init();sap.ui.require(["sap/ui/core/ComponentSupport"])});

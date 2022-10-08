@@ -1,0 +1,1 @@
+sap.ui.define([],function(){"use strict";return{sortByName:function(e,r){if(!e||!e.name){return-1}else if(!r||!r.name){return 1}else{var n=e.name.toLowerCase();var t=r.name.toLowerCase();if(n<t){return-1}else{return n>t?1:0}}}}});
